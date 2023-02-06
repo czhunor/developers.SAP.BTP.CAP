@@ -33,3 +33,4 @@ app/*/package-lock.json
 # IDEs
 # .vscode
 
+.env
